@@ -1,0 +1,13 @@
+{
+  "name": "DJS-BOT-SORUCE",
+  "version": "0.0.10",
+  "description": "Simple Djs Handler Made by dabi",
+  "main": "LayerBot.js",
+  "repository": "not now",
+  "author": "! Dabi Shelby.#8888",
+  "license": "Apatche",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
